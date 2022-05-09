@@ -40,6 +40,9 @@
   <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
   
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+  <img align="right" alt="Bersk" height="120" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/383344514871459840/973041539943120936/chad.png" >
+  
 </div>
  
 ##
